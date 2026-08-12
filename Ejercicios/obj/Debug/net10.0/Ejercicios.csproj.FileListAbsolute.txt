@@ -1,0 +1,15 @@
+C:\Repos\practicagit\Ejercicios\bin\Debug\net10.0\Ejercicios.exe
+C:\Repos\practicagit\Ejercicios\bin\Debug\net10.0\Ejercicios.deps.json
+C:\Repos\practicagit\Ejercicios\bin\Debug\net10.0\Ejercicios.runtimeconfig.json
+C:\Repos\practicagit\Ejercicios\bin\Debug\net10.0\Ejercicios.dll
+C:\Repos\practicagit\Ejercicios\bin\Debug\net10.0\Ejercicios.pdb
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.AssemblyInfo.cs
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.sourcelink.json
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.dll
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\refint\Ejercicios.dll
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.pdb
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\Ejercicios.genruntimeconfig.cache
+C:\Repos\practicagit\Ejercicios\obj\Debug\net10.0\ref\Ejercicios.dll
