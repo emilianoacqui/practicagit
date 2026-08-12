@@ -1,4 +1,4 @@
-namespace test;
+namespace hola;
 public class hola
 {
     public static void test()
