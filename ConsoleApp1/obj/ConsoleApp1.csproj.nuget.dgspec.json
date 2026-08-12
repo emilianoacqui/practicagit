@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emi28\\OneDrive\\Desktop\\clase\\P2\\practice\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Repos\\practicagit\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emi28\\OneDrive\\Desktop\\clase\\P2\\practice\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Repos\\practicagit\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emi28\\OneDrive\\Desktop\\clase\\P2\\practice\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Repos\\practicagit\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\emi28\\OneDrive\\Desktop\\clase\\P2\\practice\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Repos\\practicagit\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\emi28\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emi28\\OneDrive\\Desktop\\clase\\P2\\practice\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Repos\\practicagit\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emi28\\AppData\\Roaming\\NuGet\\NuGet.Config"
